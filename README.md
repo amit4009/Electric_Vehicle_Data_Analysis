@@ -50,7 +50,7 @@ The primary goals of this project are:
 
 ## Summary
 
-![Dashboard](E:\MLproject2\Electric_Vehicle_Population_Data\Dashboard.png)
+![Dashboard](Dashboard.png)
 
 **Growth in EV Adoption**: Electric vehicle registrations have surged over the years, peaking in 2023 with 37.1K new registrations, showcasing rapid growth in EV adoption.
 
