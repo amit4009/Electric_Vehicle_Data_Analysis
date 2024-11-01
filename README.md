@@ -4,6 +4,25 @@
 This project involves analyzing a dataset on electric vehicle (EV) registrations across the United States. The goal is to gain insights into EV adoption trends, model popularity, manufacturer dominance, and state-wise distribution, all visualized through an interactive dashboard. This project helps understand the market dynamics of electric vehicles and the effectiveness of policies encouraging EV adoption.
 </br>
 
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/amit.pandit8190/viz/ElectricVehicledataVisualization/ELECTRICVEHICLEDATAANALYSIS?publish=yes)
+
+## Summary
+
+![Dashboard](Dashboard.png)
+
+**Growth in EV Adoption**: Electric vehicle registrations have surged over the years, peaking in 2023 with 37.1K new registrations, showcasing rapid growth in EV adoption.
+
+**BEV Dominance:** Battery Electric Vehicles (BEVs) account for 77.6% of all EVs, indicating a strong market preference for fully electric vehicles over Plug-in Hybrid Electric Vehicles (PHEVs).
+
+**Geographic Concentration**: Washington leads with the highest number of EV registrations, suggesting a concentrated adoption in states with supportive policies and infrastructure.
+
+**Top EV Manufacturers:** Tesla dominates the EV market, holding 54.06% of all registered EVs. Other leading manufacturers include Nissan, Chevrolet, and Ford.
+
+**Popular Models:** The Tesla Model Y and Model 3 are the top registered models, reflecting strong consumer demand for Tesla’s offerings.
+
+**CAFV Eligibility:** About 41.81% of EVs are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, highlighting the influence of incentives on EV adoption.
+
+
 ## Project Overview
 <br>
 The Electric Vehicle Data Analysis Dashboard is designed to provide insights into the growing landscape of electric vehicles in the U.S. Using this dashboard, users can analyze the distribution of EVs across states, identify top manufacturers and models, and view trends in EV adoption over time.
@@ -48,18 +67,3 @@ The primary goals of this project are:
 
 **Data Analysis** - Conducted in-depth data analysis to identify trends, popular models, and the impact of incentives.
 
-## Summary
-
-![Dashboard](Dashboard.png)
-
-**Growth in EV Adoption**: Electric vehicle registrations have surged over the years, peaking in 2023 with 37.1K new registrations, showcasing rapid growth in EV adoption.
-
-**BEV Dominance:** Battery Electric Vehicles (BEVs) account for 77.6% of all EVs, indicating a strong market preference for fully electric vehicles over Plug-in Hybrid Electric Vehicles (PHEVs).
-
-**Geographic Concentration**: Washington leads with the highest number of EV registrations, suggesting a concentrated adoption in states with supportive policies and infrastructure.
-
-**Top EV Manufacturers:** Tesla dominates the EV market, holding 54.06% of all registered EVs. Other leading manufacturers include Nissan, Chevrolet, and Ford.
-
-**Popular Models:** The Tesla Model Y and Model 3 are the top registered models, reflecting strong consumer demand for Tesla’s offerings.
-
-**CAFV Eligibility:** About 41.81% of EVs are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, highlighting the influence of incentives on EV adoption.
