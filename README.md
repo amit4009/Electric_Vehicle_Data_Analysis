@@ -4,6 +4,7 @@
 This project involves analyzing a dataset on electric vehicle (EV) registrations across the United States. The goal is to gain insights into EV adoption trends, model popularity, manufacturer dominance, and state-wise distribution, all visualized through an interactive dashboard. This project helps understand the market dynamics of electric vehicles and the effectiveness of policies encouraging EV adoption.
 </br>
 
+
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/amit.pandit8190/viz/ElectricVehicledataVisualization/ELECTRICVEHICLEDATAANALYSIS?publish=yes)
 
 ## Summary
